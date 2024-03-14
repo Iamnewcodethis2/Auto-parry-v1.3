@@ -1,4 +1,4 @@
-/// idk if work or not :/
+/// idk if work or not :/ modify your self
 
 local color = BrickColor.new("Really red")
 local plr = game.Players.LocalPlayer
